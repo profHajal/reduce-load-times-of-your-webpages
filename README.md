@@ -16,4 +16,8 @@ This makes the CSS file available as soon as its required for the rendering of t
 It tells the browser to create a connection to the link in advance and makes it aware that you might fetch images or data from this URL.
 ![](./images/preconnect.jpg)
 
+## 3: lazy load the media
+
+The loading attribute specifies whether a browser should load an image immediately or to defer loading of off-screen images until the user scrolls near them.
+![](./images/lazyload.jpg)
 
