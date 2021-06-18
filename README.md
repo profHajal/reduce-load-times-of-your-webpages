@@ -9,5 +9,9 @@ At the top of the head tag, keep a link referring to the CSS file with rel attri
 Then have a link with rel as `stylesheet` to apply the CSS.
 
 This makes the CSS file available as soon as its required for the rendering of the page later on.
-
 ![](./images/preload.jpg)
+
+## 2: preconnect to resources
+
+This says the browser to create a connection to the link in advance and makes it aware that you might fetch images or data from this URL.
+![](./images/preconnect.jpg)
