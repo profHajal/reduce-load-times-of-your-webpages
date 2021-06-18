@@ -32,6 +32,6 @@ Indentation and spaces in code are for human readability but browsers don't need
 
 [Minify](https://web.dev/minify-css/) your files using a bundler such as webpack or rollup to reduce your file size. 
 
-##6: Load your scripts asynchronously 
+## 6: Load your scripts asynchronously 
 
 Add an `async` attribute to your script tags to load the files without blocking the HTML rendering.
