@@ -30,5 +30,5 @@ Content Delivery Networks cache the media in their world-wide spread server netw
 
 Indentation and spaces in code are for human readability but browsers don't need it.
 
-Minify your files using a bundler such as webpack or rollup to reduce your file size. 
-[Minify WebDev](https://web.dev/minify-css/)
+[Minify](https://web.dev/minify-css/) your files using a bundler such as webpack or rollup to reduce your file size. 
+
