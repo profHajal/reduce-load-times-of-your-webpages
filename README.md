@@ -13,5 +13,7 @@ This makes the CSS file available as soon as its required for the rendering of t
 
 ## 2: preconnect to resources
 
-This says the browser to create a connection to the link in advance and makes it aware that you might fetch images or data from this URL.
+It tells the browser to create a connection to the link in advance and makes it aware that you might fetch images or data from this URL.
 ![](./images/preconnect.jpg)
+
+
