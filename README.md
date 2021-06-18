@@ -34,6 +34,6 @@ Indentation and spaces in code are for human readability but browsers don't need
 
 ## 6: Handle your scripts 
 
-1. Put the script at the bottom of the page. Then it can see elements above it, and it doesn’t block the page content from showing.
-2. Add an `async` or `defer` attribute to your script tags to load the files without blocking the HTML rendering.
+- Put the script at the bottom of the page. Then it can see elements above it, and it doesn’t block the page content from showing.
+- Add an `async` or `defer` attribute to your script tags to load the files without blocking the HTML rendering.
 [read more](https://javascript.info/script-async-defer)
