@@ -26,7 +26,7 @@ The loading attribute specifies whether a browser should load an image immediate
 Content Delivery Networks cache the media in their world-wide spread server networks and serve the images to the client from the nearest server.
 ![](./images/CDN.jpg)
 
-##5: Minify your CSS files to reduce size
+## 5: Minify your CSS files to reduce size
 
 Indentation and spaces in code are for human readability but browsers don't need it.
 
