@@ -1,4 +1,4 @@
-<h1>47% of website visitors quit if the website doesn't load within 5 seconds.
+<h1>53% of mobile website visitors will leave if a webpage doesn’t load within three seconds
 
 Here are a few tips to reduce load times.</h1>
 
