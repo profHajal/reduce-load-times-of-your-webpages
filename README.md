@@ -21,3 +21,7 @@ It tells the browser to create a connection to the link in advance and makes it 
 The loading attribute specifies whether a browser should load an image immediately or to defer loading of off-screen images until the user scrolls near them.
 ![](./images/lazyload.jpg)
 
+## 4: use a CDN to load images faster
+
+Content Delivery Networks cache the media in their world-wide spread server networks and serve the images to the client from the nearest server.
+![](./images/CDN.jpg)
